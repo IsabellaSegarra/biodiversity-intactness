@@ -2,7 +2,7 @@
 
 Author: *Isabella Segarra*
 
-![Map of BII Change in Phoenix](biodiversity-intactness/BII_change_map.png)
+![Map of BII Change in Phoenix](https://github.com/IsabellaSegarra/biodiversity-intactness/blob/main/BII_change_map.png)
 
 ## About
 This repository's purpose is for investigating urbanization's inpact on biodiversity in Pheonix, AZ.
