@@ -1,10 +1,9 @@
-# biodiversity-intactness 
+# Biodiversity Change in Phoenix, AZ 
 
 Author: *Isabella Segarra*
 
-
 ## About
-This repository's purpose is for investigating urbanization's inpact on biodiversity in Pheonix, AZ.
+This repository's purpose is for investigating urbanization's impact on biodiversity in the Pheonix subdivision of Arizona. This analysis is part of **EDS 220: Working with Environmental Datasets** at the Bren School of Environmental Science and Management. 
 
 This repository includes the following structure: 
 
