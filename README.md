@@ -24,6 +24,8 @@ United States Census Bureau. (2025). TIGER/Line Shapefile, 2023, State, Arizona,
 
 Microsoft. (2025). Biodiversity Intactness [Dataset]. Microsoft Planetary Computer. https://planetarycomputer.microsoft.com/dataset/io-biodiversity#overview
 
+Z. Levitt and J. Eng, “Where America’s developed areas are growing: ‘Way off into the horizon’,” The Washington Post, Aug. 2021, Available: https://www.washingtonpost.com/nation/interactive/2021/land-development-urban-growth-maps/. [Accessed: Nov. 22, 2024] 
+
 ## Acknowledgements
 I would like to acknowledge Dr. Carmen Galaz García and Dr. Annie Adams for their creation and development of this project. 
 
