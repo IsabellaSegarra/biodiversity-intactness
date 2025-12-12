@@ -2,6 +2,8 @@
 
 Author: *Isabella Segarra*
 
+![BII Change Map 2017-2020 Phoenic, AZ](BII_map.png){width = 30%}
+
 ## About
 This repository's purpose is for investigating urbanization's impact on biodiversity in the Pheonix subdivision of Arizona. This analysis is part of **EDS 220: Working with Environmental Datasets** at the Bren School of Environmental Science and Management. 
 
@@ -11,7 +13,7 @@ This repository includes the following structure:
 biodiversity-intactness
 |-- README.md
 |-- biodiversity-intactness.ipynb
-|-- BII_change_map.png
+|-- BII_map.png
 |-- .gitignore
 
 ``` 
